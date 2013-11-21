@@ -60,6 +60,19 @@ Multiple choice.
 * Mocha
 * node-tap
 
+
+### Unit Testing: What environment do you run unit tests in?
+
+Multiple choice.
+
+* Manually in-browser
+* Node.js
+* PhantomJS
+* SlimerJS
+* Testling
+* Other
+
+
 ### Static Analysis: Do you use any tools for verifying code quality? 
 
 Multiple choice.
