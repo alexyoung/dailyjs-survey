@@ -45,8 +45,10 @@ Multiple choice.
 
 Radio.
 
-* Yes
-* No
+* Always
+* Most of the time
+* Sometimes
+* Never
 
 ### Unit Testing: What unit testing libraries do you use?
 
