@@ -119,6 +119,15 @@ Multiple choice.
 * Bitbucket
 * Other
 
+### Community: how do you learn about JavaScript offline?
+
+Multiple choice.
+
+* conferences - general web development
+* conferences - JS specific
+* meetups / groups - general web development
+* meetups / groups - JS specific
+
 ### CDN: Which service do you use to serve third-party libraries?
 
 Multiple choice.
