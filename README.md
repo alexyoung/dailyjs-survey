@@ -41,6 +41,25 @@ Multiple choice.
 * Indentation with spaces
 * Indentation with tabs
 
+### What libraries and frameworks do you use?
+
+* jQuery 1.x
+* jQuery 2.x
+* Angular
+* Backbone
+* Ember
+* CanJS
+* Knockout
+
+### Which EcmaScript 5 features do you use?
+
+* Object.create
+* Object seal and freeze methods
+* Use bind method on functions
+* New Array methods like forEach
+* Getters and setters
+* Strict mode
+
 ### Unit Testing: Do you write tests?
 
 Radio.
