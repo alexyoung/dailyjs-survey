@@ -59,6 +59,7 @@ Multiple choice.
 * Nodeunit
 * Mocha
 * node-tap
+* Karma
 
 ### Static Analysis: Do you use any tools for verifying code quality? 
 
@@ -95,6 +96,22 @@ Multiple choice.
 * npm scripts
 * Grunt
 * Other
+
+
+### If you're writing browser Javascript, what framework are you using?
+
+Multiple choice.
+
+* AngularJS
+* Backbone.js
+* EmberJS
+* Knockout
+* Flight 
+* React
+* MeteorJS
+* DerbyJS
+* Something Else
+
 
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
