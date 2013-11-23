@@ -8,6 +8,7 @@ Multiple choice.
 
 * Browser
 * Server
+* Mobile
 * Other
 
 ### Do you use a language that compiles to JavaScript?
