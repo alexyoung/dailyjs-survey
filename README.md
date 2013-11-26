@@ -94,6 +94,7 @@ Multiple choice.
 * Make
 * npm scripts
 * Grunt
+* Browserify
 * Other
 
 ### Project Discovery: How do you find reusable code, libraries and tools?
