@@ -96,6 +96,26 @@ Multiple choice.
 * Grunt
 * Other
 
+### Front-End Frameworks: What frameworks do you use?
+
+Multiple choice.
+
+* Agility
+* Angular
+* Backbone
+* CanJS
+* Dojo
+* Ember
+* Ext
+* KendoUI
+* Knockout
+* Meteor
+* MooTools
+* Sammy
+* YUI
+
+
+
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
 Multiple choice.
