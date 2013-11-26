@@ -58,7 +58,7 @@ Multiple choice.
 * Vows
 * Nodeunit
 * Mocha
-* node-tap
+* node-tap / tape
 
 ### Static Analysis: Do you use any tools for verifying code quality? 
 
