@@ -109,6 +109,7 @@ Multiple choice.
 * Bitbucket
 * SourceForge
 * DailyJS
+* Twitter / IRC / Asking friends
 
 ### Project Hosting: Preferred hosting for your own JavaScript projects
 
