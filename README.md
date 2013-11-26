@@ -128,6 +128,7 @@ Multiple choice.
 * jQuery CDN
 * CloudFlare
 * MaxCDN
+* Browserify CDN / wzrd.in
 * Other
 
 ### Other than JavaScript, what are your primary development languages?
