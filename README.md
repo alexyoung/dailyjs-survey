@@ -59,7 +59,7 @@ Multiple choice.
 * Vows
 * Nodeunit
 * Mocha
-* node-tap
+* node-tap / tape
 
 ### Unit Testing: Do you run tests on a Continuous Integration system?
 
