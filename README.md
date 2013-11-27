@@ -95,6 +95,7 @@ Multiple choice.
 * Make
 * npm scripts
 * Grunt
+* Browserify
 * Other
 
 ### Front-End Frameworks: What frameworks do you use?
