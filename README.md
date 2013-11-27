@@ -74,11 +74,13 @@ Multiple choice.
 
 * QUnit
 * Jasmine
-* YUITest
-* Vows
-* Nodeunit
+* Karma
 * Mocha
 * node-tap / tape
+* Nodeunit
+* Vows
+* YUITest
+* Other
 
 ### Unit Testing: Do you run tests on a Continuous Integration system?
 
@@ -144,18 +146,22 @@ Multiple choice.
 Multiple choice.
 
 * Agility
-* Angular
-* Backbone
+* AngularJS
+* Backbone.js
 * CanJS
+* DerbyJS
 * Dojo
 * Ember
 * Ext
+* Flight
 * KendoUI
 * Knockout
 * Meteor
 * MooTools
+* React
 * Sammy
 * YUI
+* Other
 
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
