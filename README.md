@@ -61,7 +61,26 @@ Multiple choice.
 * Mocha
 * node-tap
 
-### Static Analysis: Do you use any tools for verifying code quality? 
+### Unit Testing: Do you run tests on a Continuous Integration system?
+
+Radio.
+
+* Yes
+* No
+
+### Unit Testing: Which Continuous Integration system do you use?
+
+Multiple choice.
+
+* Jenkins
+* Hudson
+* Travis CI
+* Bamboo
+* CruiseControl
+* TeamCity
+* Other [specify]
+
+### Static Analysis: Do you use any tools for verifying code quality?
 
 Multiple choice.
 
