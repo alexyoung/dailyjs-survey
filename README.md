@@ -12,6 +12,24 @@ Multiple choice.
 * Mobile
 * Other
 
+### Where do you use JavaScript? (multiple choice)
+
+Multiple choice.
+
+* At work
+* Side projects
+* Other
+
+### How long have you been writing JavaScript?
+
+Radio.
+
+* One year or less
+* Two years
+* Three to five years
+* Five to 10 years
+* More than 10 years
+
 ### Do you use a language that compiles to JavaScript?
 
 Radio.
@@ -89,6 +107,7 @@ Multiple choice.
 * JSHint
 * Google Closure Compiler
 * YUI Compressor
+* No tools
 * Other
 
 ### How do you handle client-side dependencies?
@@ -136,8 +155,6 @@ Multiple choice.
 * Sammy
 * YUI
 
-
-
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
 Multiple choice.
@@ -151,7 +168,9 @@ Multiple choice.
 * Bitbucket
 * SourceForge
 * DailyJS
+* Echo JS
 * Twitter / IRC / Asking friends
+* Other
 
 ### Project Hosting: Preferred hosting for your own JavaScript projects
 
