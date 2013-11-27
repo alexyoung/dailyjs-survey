@@ -118,6 +118,7 @@ Multiple choice.
 * Component
 * npm
 * Plain old files
+* Volo
 * Other
 
 ### How do you write client-side scripts?
@@ -126,6 +127,7 @@ Multiple choice.
 
 * AMD
 * CommonJS
+* CommonJS with Browserify
 
 ### What's your preferred build script solution?
 
@@ -192,6 +194,24 @@ Multiple choice.
 * MaxCDN
 * Browserify CDN / wzrd.in
 * Other
+
+### IE: What's the minimum version of Internet Explorer you target?
+
+Radio.
+
+* IE 7
+* IE 8
+* IE 9
+* IE 10
+* IE 11
+* N/A
+
+### ES6: Are you using ES6 features in your code right now?
+
+Radio.
+
+* Yes
+* No
 
 ### Other than JavaScript, what are your primary development languages?
 
