@@ -184,6 +184,7 @@ Multiple choice.
 * Lisp
 * Clojure
 * Erlang
+* Go
 * Scala
 * Perl
 * PHP
