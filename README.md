@@ -81,6 +81,8 @@ Multiple choice.
 * Nodeunit
 * Vows
 * YUITest
+* Intern
+* Testem
 * Other
 
 ### Unit Testing: Do you run tests on a Continuous Integration system?
