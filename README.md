@@ -89,6 +89,17 @@ Radio.
 * No
 * Sometimes / Not enough / Not too much / When needed
 
+### Unit Testing: What environment do you run unit tests in?
+
+Multiple choice.
+
+* Manually in-browser
+* Node.js
+* PhantomJS
+* SlimerJS
+* Testling
+* Other
+
 ### Unit Testing: What unit testing libraries do you use?
 
 Multiple choice.
