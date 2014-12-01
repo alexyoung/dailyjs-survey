@@ -8,7 +8,8 @@ Multiple choice.
 
 * Browser
 * Server
-* Native (Windows 8, PhoneGap, etc)
+* Native (Windows 8, AppCelerator)
+* Hybrid Apps (Cordova/PhoneGap)
 * Mobile
 * Other
 
@@ -155,12 +156,14 @@ Multiple choice.
 * Ember
 * Ext
 * Flight
+* Ionic Framework
 * KendoUI
 * Knockout
 * Meteor
 * MooTools
 * React
 * Sammy
+* WinJS
 * YUI
 * None
 * I use modules instead of frameworks
