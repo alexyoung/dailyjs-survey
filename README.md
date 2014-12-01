@@ -8,7 +8,7 @@ Multiple choice.
 
 * Browser
 * Server
-* Native (Windows 8, AppCelerator)
+* Native (Windows 8, Appcelerator)
 * Hybrid Apps (Cordova/PhoneGap)
 * Mobile
 * Other
@@ -52,6 +52,8 @@ Multiple choice.
 
 Multiple choice.
 
+You can find examples for each of these descriptions here: [style.md](https://github.com/alexyoung/dailyjs-survey/blob/master/style.md).
+
 * No semicolons
 * Semicolons
 * Commas at the beginning
@@ -61,16 +63,6 @@ Multiple choice.
 * Functions and loops with two spaces
 * Indentation with spaces
 * Indentation with tabs
-
-### What libraries and frameworks do you use?
-
-* jQuery 1.x
-* jQuery 2.x
-* Angular
-* Backbone
-* Ember
-* CanJS
-* Knockout
 
 ### Which EcmaScript 5 features do you use?
 
@@ -191,6 +183,8 @@ Multiple choice.
 * Knockout
 * Meteor
 * MooTools
+* jQuery 1.x
+* jQuery 2.x
 * React
 * Sammy
 * WinJS
