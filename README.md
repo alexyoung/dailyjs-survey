@@ -56,9 +56,9 @@ Multiple choice.
 * Semicolons
 * Commas at the beginning
 * Commas at the end
-* Methods with no spaces
-* Methods with one space
-* Methods with two spaces
+* Functions and loops with no spaces
+* Functions and loops with one space
+* Functions and loops with two spaces
 * Indentation with spaces
 * Indentation with tabs
 
