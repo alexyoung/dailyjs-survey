@@ -188,6 +188,21 @@ Multiple choice.
 * I use modules instead of frameworks
 * Other
 
+### Project Development: What is your IDE or Editor of choice for Javascript projects?
+
+Multiple choice.
+
+* SublimeText
+* TextMate
+* Notepad++
+* vi / nano / emacs
+* IntelliJ
+* Dreamweaver
+* NetBeans
+* SpringSource
+* Eclipse
+* jEdit
+
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
 Multiple choice.
