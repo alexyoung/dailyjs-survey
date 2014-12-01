@@ -66,6 +66,8 @@ You can find examples for each of these descriptions here: [style.md](https://gi
 
 ### Which EcmaScript 5 features do you use?
 
+Multiple choice.
+
 * Object.create
 * Object seal and freeze methods
 * Use bind method on functions
@@ -147,14 +149,6 @@ Multiple choice.
 * Volo
 * Other
 
-### How do you write client-side scripts?
-
-Multiple choice.
-
-* AMD
-* CommonJS
-* CommonJS with Browserify
-
 ### What's your preferred build script solution?
 
 Multiple choice.
@@ -193,20 +187,22 @@ Multiple choice.
 * I use modules instead of frameworks
 * Other
 
-### Project Development: What is your IDE or Editor of choice for Javascript projects?
+### Project Development: What is your IDE or Editor of choice for JavaScript projects?
 
 Multiple choice.
 
 * SublimeText
 * TextMate
 * Notepad++
-* vi / nano / emacs
 * IntelliJ
 * Dreamweaver
 * NetBeans
 * SpringSource
 * Eclipse
 * jEdit
+* Vim or vi clone
+* Emacs
+* Other
 
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
