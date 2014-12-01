@@ -209,7 +209,7 @@ Multiple choice.
 
 Multiple choice.
 
-* search.npmjs.org
+* npmjs.org
 * GitHub
 * Google Code
 * Social Bookmarking Sites
