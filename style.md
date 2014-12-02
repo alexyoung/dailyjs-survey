@@ -98,7 +98,7 @@ function fibonacci() {
 }
 ```
 
-### Functions and loops with one space
+### Functions and loops with two spaces
 
 ```javascript
 // The function or method name has a space, and so does the curly brace
