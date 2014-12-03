@@ -202,7 +202,17 @@ Multiple choice.
 * Eclipse
 * jEdit
 * Vim or vi clone
+* Visual Studio
 * Emacs
+* Other
+
+### Project Development: What is the OS you are using for your development?
+
+Multiple choice.
+
+* Linux
+* Mac
+* Windows
 * Other
 
 ### Project Discovery: How do you find reusable code, libraries and tools?
@@ -269,6 +279,35 @@ Radio.
 
 * Yes
 * No
+
+### ES6: If you are using ES6 features, Which polyfill/tools you are using to target browsers yet to support ES6 ?
+
+Multiple choice.
+
+* Traceur
+* es6ify
+* 6to5
+* Other
+
+### ES6: If you are using ES6 features, Which features do you currently use or planning to use in next 6 months ?
+
+Multiple choice.
+
+* Arrow Functions
+* Classes
+* Default
+* ES6 APIs - Array, Math, Number, String, Object APIs
+* Generators
+* Iterators
+* Modules
+* Promises
+* Proxies
+* Rest
+* Spread
+* String Templates
+* Subclassable Built-ins
+* Symbols
+* Let, Const & Block Scoping
 
 ### Other than JavaScript, what are your primary development languages?
 
