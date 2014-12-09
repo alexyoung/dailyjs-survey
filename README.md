@@ -230,6 +230,7 @@ Multiple choice.
 * DailyJS
 * Echo JS
 * Twitter / IRC / Asking friends
+* Newsletters
 * Other
 
 ### Project Hosting: Preferred hosting for your own JavaScript projects
@@ -239,6 +240,7 @@ Multiple choice.
 * GitHub
 * Google Code
 * Bitbucket
+* Self-hosted
 * Other
 
 ### Community: how do you learn about JavaScript offline?
@@ -257,9 +259,10 @@ Multiple choice.
 * Google Ajax Libraries
 * Microsoft Ajax Content Delivery Network
 * jQuery CDN
-* CloudFlare
+* CDNJS (CloudFlare)
 * MaxCDN
 * Browserify CDN / wzrd.in
+* jsDelivr
 * Other
 
 ### IE: What's the minimum version of Internet Explorer you target?
