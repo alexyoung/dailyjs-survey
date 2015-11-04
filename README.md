@@ -215,6 +215,28 @@ Multiple choice.
 * Windows
 * Other
 
+### Back-end Connectivity: What cloud based services are you using for your apps?
+
+Multiple choice.
+
+* Amazon Web Services
+* Azure App Service
+* Google Play Services
+* Flurry
+* Crashlytics
+* HockeyApp
+* Fabrics
+* Crittercism
+* Parse
+* Facebook
+* Firebase
+* Office 365
+* Salesforce
+* SAP
+* Oracle Mobile Cloud Service
+* Auth0
+* Other [specify]
+
 ### Project Discovery: How do you find reusable code, libraries and tools?
 
 Multiple choice.
